@@ -3,6 +3,7 @@ languageCode = "ja"
 theme = "moments"
 paginate = 10
 paginatePath = '.'
+publishDir = "docs"
 
 [params]
     title = "music♪"
