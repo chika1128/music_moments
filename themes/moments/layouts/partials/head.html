@@ -1,0 +1,94 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{/*
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script> -->
+*/}}
+
+<!-- todo change jquery -->
+<script src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
+
+<!-- like button -->
+<link href="https://cdn.bootcss.com/font-awesome/5.8.2/css/all.min.css" rel="stylesheet">
+<script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+<!-- favicon -->
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="36x36" href="/favicon/android-chrome-36x36.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon/android-chrome-48x48.png">
+<link rel="icon" type="image/png" sizes="72x72" href="/favicon/android-chrome-72x72.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon/android-chrome-96x96.png">
+<link rel="icon" type="image/png" sizes="128x128" href="/favicon/android-chrome-128x128.png">
+<link rel="icon" type="image/png" sizes="144x144" href="/favicon/android-chrome-144x144.png">
+<link rel="icon" type="image/png" sizes="152x152" href="/favicon/android-chrome-152x152.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="256x256" href="/favicon/android-chrome-256x256.png">
+<link rel="icon" type="image/png" sizes="384x384" href="/favicon/android-chrome-384x384.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/favicon/android-chrome-512x512.png">
+<link rel="icon" type="image/png" sizes="36x36" href="/favicon/icon-36x36.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon/icon-48x48.png">
+<link rel="icon" type="image/png" sizes="72x72" href="/favicon/icon-72x72.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon/icon-96x96.png">
+<link rel="icon" type="image/png" sizes="128x128" href="/favicon/icon-128x128.png">
+<link rel="icon" type="image/png" sizes="144x144" href="/favicon/icon-144x144.png">
+<link rel="icon" type="image/png" sizes="152x152" href="/favicon/icon-152x152.png">
+<link rel="icon" type="image/png" sizes="160x160" href="/favicon/icon-160x160.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon/icon-192x192.png">
+<link rel="icon" type="image/png" sizes="196x196" href="/favicon/icon-196x196.png">
+<link rel="icon" type="image/png" sizes="256x256" href="/favicon/icon-256x256.png">
+<link rel="icon" type="image/png" sizes="384x384" href="/favicon/icon-384x384.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/favicon/icon-512x512.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/icon-16x16.png">
+<link rel="icon" type="image/png" sizes="24x24" href="/favicon/icon-24x24.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/icon-32x32.png">
+<link rel="manifest" href="/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicon/icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<!-- the Moments style css file -->
+{{ $style := resources.Get "style-refractored.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+<!-- fancybox css (js in the end before the body closing tag) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"/>
+
+<!-- videojs -->
+<link href="https://vjs.zencdn.net/8.0.4/video-js.min.css" rel="stylesheet" />
+
+<!-- pure.css -->
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/base-min.css">
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-min.css">
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css">
+
+<!-- CSS for loading animation -->
+{{ if .Site.Params.infiniteScroll }}
+<link rel="stylesheet" href="/style/loading.css">
+{{ end }}
+
+{{/* pangu support: js in the end before the body closing tag */}}
+{{ if .Site.Params.features.pangu }}
+<!-- pangu support -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pangu/4.0.7/pangu.min.js"></script>
+{{ end }}
+
+
+{{ if .Site.Params.features.heti }}
+<link rel="stylesheet" href="/style/heti.min.css">
+<script src="/scripts/heti-addon.min.js"></script>
+{{ end }}
+
+
+<!-- website title -->
+<title>{{ .Site.Params.title }}</title>

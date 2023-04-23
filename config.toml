@@ -1,0 +1,13 @@
+baseURL = "https://chika1128.github.io/music_moments/"
+languageCode = "ja"
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "music♪"
+    signature = "記録（not時系列）"
+    cover = "https://pbs.twimg.com/media/EgrqGBHU0AE2C0P?format=jpg"
+
+    name = "@ct_902"
+    avatar = "/img/hana2.png"
