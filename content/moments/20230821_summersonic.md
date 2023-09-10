@@ -34,7 +34,7 @@ pictures:
  - https://pbs.twimg.com/media/F4D-NU1XIAAQkVE?format=jpg&name=large
  - https://pbs.twimg.com/media/F4D-NVHWAAEGxZ-?format=jpg&name=large
  - https://pbs.twimg.com/media/F4D-NU3WIAAdXCo?format=jpg&name=large
- - https://scontent.cdninstagram.com/v/t51.2885-15/373683259_992978001907085_7456047157939662459_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=IdEPvH3F2pkAX8ONA2W&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzE4MzU3NDY5NTA5MDUzNjQxNQ%3D%3D.2-ccb7-5&oh=00_AfCUlSDmlbs6omIc6kAUofFzlgU-b2HitAUfU44Azhej1A&oe=65018D21&_nc_sid=10d13b
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/TDCC_resize.jpg?raw=true
  - https://pbs.twimg.com/media/F4EBPrGWEAA9nx-?format=jpg&name=large
  - https://pbs.twimg.com/media/F4EBPrJXIAUl-x5?format=jpg&name=large
  - https://pbs.twimg.com/media/F4EBPrHWsAIO2-O?format=jpg&name=large

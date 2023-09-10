@@ -39,12 +39,16 @@ tags:
 # 追加情報 (オプション 1 または空白のまま)
 # 追加情報タイプ 1: 単一画像
 pictures:
- - https://twitter.com/ct_902/status/1686522503987150849/video/1
- - https://twitter.com/ct_902/status/1686522503987150849/video/2
- - https://twitter.com/ct_902/status/1686522503987150849/video/3
- - https://scontent.cdninstagram.com/v/t51.2885-15/373559013_622946929968552_7002406951679454392_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=Cy0QhsYPy4gAX9O5SQ2&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzE4MzU2Mjc0MTY0MjgyNzA2NQ%3D%3D.2-ccb7-5&oh=00_AfD6k7J2iXafRLmlhLzTBxy1L9xodl-_AAEyIGtC5ExGtA&oe=6501A810&_nc_sid=10d13b
- - https://scontent.cdninstagram.com/v/t51.2885-15/374232683_834281021656114_5116115841499591880_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_ohc=LqHREg6E9nwAX9qPfqC&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzE4MzU2Mjc0MTY0Mjc2MDgxNw%3D%3D.2-ccb7-5&oh=00_AfDlO2IPblkTHiE4bA3HQaOzjcFtItaxfEVs27LKELYYZg&oe=6502310E&_nc_sid=10d13b
- - https://scontent.cdninstagram.com/v/t51.2885-15/374797857_1441382663351065_7138423838343523310_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_ohc=gIy-oplQr4cAX-xIRUp&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzE4MzU2Mjc0MTgyNzM1MTkyMg%3D%3D.2-ccb7-5&oh=00_AfDoAe52ErNPCDtv7ELM5OHOhxzJkWSJr73dlPfC_GZ2fA&oe=6501C53B&_nc_sid=10d13b
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_4864_resize.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_4809_resize.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_4927_resize.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_4987_resize.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_5012_resize.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_5146_resize.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_5097_resize.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_4760_resize.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_4968_resize.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/IMG_4827_resize.jpg?raw=true
  - https://pbs.twimg.com/media/F2T9uXOboAAXsF4?format=jpg&name=large
  - https://pbs.twimg.com/media/F2CVZCgaEAE8DW6?format=jpg&name=large
  
