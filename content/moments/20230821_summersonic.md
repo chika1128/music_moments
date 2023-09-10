@@ -54,18 +54,18 @@ note:
 ---
 
 <!-- 以下にテキストを書き始めます -->
-サマソニ2023
-感激感動のアクト達😭✨
-🥇blur
-🥈liam gallagher
-🥉HONNE
-🏅tdcc
-🏅80kidz
-🎖Pale Waves
-🎖Nova Twins
-🎖the snuts
-🎖newjeans
-🎖SOL
-
-一緒に行った友、現地で会えた友、初めましてのフォロワーさん達と乾杯できて色々お話して、思い出の量が半端ない🥹ありがとうございました🫶
+サマソニ2023  
+感激感動のアクト達😭✨  
+🥇blur  
+🥈liam gallagher  
+🥉HONNE  
+🏅tdcc  
+🏅80kidz  
+🎖Pale Waves  
+🎖Nova Twins  
+🎖the snuts  
+🎖newjeans  
+🎖SOL  
+  
+一緒に行った友、現地で会えた友、初めましてのフォロワーさん達と乾杯できて色々お話して、思い出の量が半端ない🥹ありがとうございました🫶  
 これだからサマソニは辞められない🤣もはや愛してるw
