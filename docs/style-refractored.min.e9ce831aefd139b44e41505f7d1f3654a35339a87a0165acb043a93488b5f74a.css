@@ -216,10 +216,6 @@ p {
     font-size: 24px
 }
 
-.intro {
-    max-width: 80%;
-}
-
 
 .user-info .intro div:nth-child(2) {
     word-break: break-all;
