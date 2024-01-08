@@ -242,7 +242,6 @@ p {
 .text-muted
 {
     display:inline-block;
-    word-wrap:break-all;
 }
 
 .context {
