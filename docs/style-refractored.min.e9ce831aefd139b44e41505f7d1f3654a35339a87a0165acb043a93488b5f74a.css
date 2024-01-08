@@ -241,7 +241,7 @@ p {
 
 .text-muted
 {
-    display:block;
+    display:inline-block;
     word-wrap:break-all;
 }
 
