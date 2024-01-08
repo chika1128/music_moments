@@ -217,7 +217,7 @@ p {
 }
 
 .user-info .intro div:nth-child(2) {
-    word-break: break-word;
+    word-break: break-all;
     line-height: 18px
 }
 
