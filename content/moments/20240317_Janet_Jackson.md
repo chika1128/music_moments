@@ -20,7 +20,7 @@ tags:
 # 追加情報タイプ 1: 単一画像
 pictures:
  - https://github.com/chika1128/music_moments/blob/main/content/moments/img/20240317_Janet_Jackson01.jpg?raw=true
- - https://github.com/chika1128/music_moments/blob/main/content/moments/img/20240317_Janet_Jackson02?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/20240317_Janet_Jackson02.jpg?raw=true
  - https://pbs.twimg.com/media/GI61IpIboAAl8PU?format=jpg&name=large
 
 # 追加情報タイプ 2: Web リンク
