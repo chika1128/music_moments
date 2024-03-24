@@ -12,3 +12,8 @@ publishDir = "docs"
 
     name = "@ct_902"
     avatar = "/img/hana2.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
