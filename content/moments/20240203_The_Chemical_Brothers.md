@@ -39,7 +39,7 @@ note:
 みんなケミブラ史上最高の公演だったって言ってるけど、一番最初に最高公演に行ってしまった🥹  
 2h、老若男女、前も後ろも踊りっぱなしだったね🥳まだ余韻冷めない  
 
-<blockquote class="twitter-tweet" data-media-max-width="65%">
+<blockquote class="twitter-tweet" data-media-max-width="100%">
     <p lang="ja" dir="ltr">昨日はケミブラ最高の夜だった…🥹行ってよかった〜〜〜！！！2h、老若男女、前も後ろも踊りっぱなしだったね🥳まだ余韻冷めない
         <a href="https://twitter.com/hashtag/theChemicalBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#theChemicalBrothers</a>
         <a href="https://t.co/vfUhFP7eXZ">pic.twitter.com/vfUhFP7eXZ</a></p>&mdash; そーめん (@ct_902)

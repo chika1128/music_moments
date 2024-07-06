@@ -1,11 +1,10 @@
 {{ $num_per_row := 3}}
-{{ $max_width := 80}}
+{{ $max_width := 100}}
 {{ if or (eq (len .pic_set) 2) (eq (len .pic_set) 4)}}
     {{ $num_per_row = 2}}
-    {{ $max_width = 53}}
+    {{ $max_width = 100}}
 {{ end }}
 
-{{ $caption := .caption}}
 
 <div class="pic-grid" style="width: {{ $max_width }}%">
     <div class="pure-g">
@@ -13,7 +12,7 @@
         <div class="pure-u-1-{{ $num_per_row }}">
             <div class="add-padding">
                 <div class="img-container">
-                    <a data-src="{{ $a }}" data-fancybox="gallery" data-caption="{{ $caption }}">
+                    <a data-src="{{ $a }}" data-fancybox="gallery">
                         <img src="{{ $a }}" alt="pictures"/>
                     </a>
                 </div>
