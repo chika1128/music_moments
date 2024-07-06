@@ -40,4 +40,4 @@ note:
 久しぶのDYGLもっと聴きたかった🥰  
 フードも結構あって、コンパクトで手軽に行けるいいフェスでした🎵
 
-<blockquote class="twitter-tweet" data-media-max-width="80%"><a href="https://t.co/Ge8hcL6Pzc">pic.twitter.com/Ge8hcL6Pzc</a></p><a href="https://twitter.com/ct_902/status/1779417417405579489?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="100%"><a href="https://t.co/Ge8hcL6Pzc">pic.twitter.com/Ge8hcL6Pzc</a></p><a href="https://twitter.com/ct_902/status/1779417417405579489?ref_src=twsrc%5Etfw"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
