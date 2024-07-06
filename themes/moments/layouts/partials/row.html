@@ -79,7 +79,7 @@
 
                     {{ if (eq (len $pictures_set) 1) }}
                         {{ range $pictures_set }}
-                            <img src="{{ . }}" class="single-pic" alt="Responsive image" data-fancybox="gallery" data-caption={{ $picture_caption }}></img>
+                            <img src="{{ . }}" class="single-pic" alt="Responsive image" data-fancybox="gallery"></img>
                         {{ end }}
                     {{ end }}
 
@@ -89,7 +89,7 @@
 
                     {{/* Probably DEPRECATED in the future: single picture (old version API `pic`)*/}}
                     {{ with .Params.pic }}
-                        <img src="{{ . }}" class="single-pic" alt="Responsive image" data-fancybox="gallery" data-caption={{ $picture_caption }}></img>
+                        <img src="{{ . }}" class="single-pic" alt="Responsive image" data-fancybox="gallery"></img>
                     {{ end }}
 
                     {{/* Probably DEPRECATED in the future: multiple pictures (old version API `pic_set`) */}}
