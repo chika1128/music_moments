@@ -5,7 +5,6 @@
     {{ $max_width = 53}}
 {{ end }}
 
-{{ $caption := .caption}}
 
 <div class="pic-grid" style="width: {{ $max_width }}%">
     <div class="pure-g">
@@ -13,7 +12,7 @@
         <div class="pure-u-1-{{ $num_per_row }}">
             <div class="add-padding">
                 <div class="img-container">
-                    <a data-src="{{ $a }}" data-fancybox="gallery" data-caption="{{ $caption }}">
+                    <a data-src="{{ $a }}" data-fancybox="gallery">
                         <img src="{{ $a }}" alt="pictures"/>
                     </a>
                 </div>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>なんばHatch on </title>
-    <link>http://localhost:1313/music_moments/tags/%E3%81%AA%E3%82%93%E3%81%B0hatch/</link>
+    <link>https://chika1128.github.io/music_moments/tags/%E3%81%AA%E3%82%93%E3%81%B0hatch/</link>
     <description>Recent content in なんばHatch on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 13 Mar 2024 21:51:23 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/music_moments/tags/%E3%81%AA%E3%82%93%E3%81%B0hatch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chika1128.github.io/music_moments/tags/%E3%81%AA%E3%82%93%E3%81%B0hatch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/music_moments/moments/20240313_slowdive/</link>
+      <link>https://chika1128.github.io/music_moments/moments/20240313_slowdive/</link>
       <pubDate>Wed, 13 Mar 2024 21:51:23 +0900</pubDate>
-      <guid>http://localhost:1313/music_moments/moments/20240313_slowdive/</guid>
+      <guid>https://chika1128.github.io/music_moments/moments/20240313_slowdive/</guid>
       <description>余韻がすごい🥹🥹ワンマン来てよかった…✨✨✨</description>
     </item>
   </channel>
