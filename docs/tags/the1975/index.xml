@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The1975 on </title>
-    <link>https://chika1128.github.io/music_moments/tags/the1975/</link>
+    <link>http://localhost:1313/music_moments/tags/the1975/</link>
     <description>Recent content in The1975 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 29 Apr 2023 01:16:16 +0900</lastBuildDate>
-    <atom:link href="https://chika1128.github.io/music_moments/tags/the1975/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music_moments/tags/the1975/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://chika1128.github.io/music_moments/moments/20230429_the1975/</link>
+      <link>http://localhost:1313/music_moments/moments/20230429_the1975/</link>
       <pubDate>Sat, 29 Apr 2023 01:16:16 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20230429_the1975/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20230429_the1975/</guid>
       <description>サマソニで初めて見てから、いつかワンマン行くと思ってた夢が叶いました🥹 約2hずっと幸せだった…！💕 2023.04.29 @愛知スカイエキスポ</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/music_moments/moments/20220823_summersonic/</link>
+      <pubDate>Tue, 23 Aug 2022 23:41:00 +0900</pubDate>
+      <guid>http://localhost:1313/music_moments/moments/20220823_summersonic/</guid>
+      <description>サマソニ・ソニマニ 2022&#xA;個人的にグッときたアクト❤️‍🔥&#xA;🥇Rina Sawayama&#xA;🥈Maneskin&#xA;🥉The 1975&#xA;🏅KASABIAN&#xA;🎖Kula Shaker&#xA;🎖SESO NEON&#xA;🎖Griff&#xA;ソニマニ&#xA;どんぐりず→Kasabian→SPARKS→電気グルーヴ（少し）→Primal Scream&#xA;サマソニ1日目&#xA;BEABADOOBEE→Rina Sawayama→Maneskin→ザ・クロマニョンズ（少し）→The 1975&#xA;サマソニ2日目&#xA;SALEM ILESE（少し）→SESO NEON→EASY LIFE→3OH!3→Griff→女王蜂（少し）→ENDLICHERI（少し）→Kula Shaker→ZICO（少し）→CARLY RAE JEPSEN&#xA;The 1975・Kasabianはもう圧倒的王者だったけど、今回見たかったリナサワヤマのステージは凄かった!!!MC内容も感極まって涙でた・・🥺&#xA;話題のマネスキンは友とフォロワーさんが口を揃えてイイヨ！って言ってて、マネスキン見ることにして本当によかった😂✨そして予習せずサマソニに来た自分を恥じた😂&#xA;リナサワヤマ感極まった🥹憧れる〜！&#xA;歌もパフォーマンスもカッコよすぎだし、ダンサーもバンドメンバーも白人と黒人半々で、リナさんはアジアンで、なんていうか今の世の中が追いかけることを体現してるアーティストって感じ😭✨&#xA;Kula Shakerとmiletがgovindaコラボしてたのサプライズでしたね😳&#xA;CL様と電気グルーヴがほぼ見れなかったのが少しだけ心残り^^;&#xA;コロナ禍になって出演者や移動に余裕があって忘れてたけど、普段のフェスってご飯食べてる暇ないな・・😂&#xA;あと&#xA;「詰めてたはずなのに、ステージ始まった瞬間に何故かみんな急に前に行く現象」&#xA;「前に割り込まれないくらいの適度な人との距離感」&#xA;とかを久しぶりに体感して、懐かしいなぁとか思ってました・・・😂&#xA;来年以降も、これが右肩上がりに復活していくことを祈る！</description>
     </item>
   </channel>
 </rss>

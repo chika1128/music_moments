@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CIRCLE23 on </title>
-    <link>https://chika1128.github.io/music_moments/tags/circle23/</link>
+    <link>http://localhost:1313/music_moments/tags/circle23/</link>
     <description>Recent content in CIRCLE23 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 22 May 2023 00:56:00 +0900</lastBuildDate>
-    <atom:link href="https://chika1128.github.io/music_moments/tags/circle23/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music_moments/tags/circle23/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://chika1128.github.io/music_moments/moments/20230522_circle/</link>
+      <link>http://localhost:1313/music_moments/moments/20230522_circle/</link>
       <pubDate>Mon, 22 May 2023 00:56:00 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20230522_circle/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20230522_circle/</guid>
       <description>circle &amp;lsquo;23、1日目 やっぱり電気グルーヴは、最高に楽しい！！！🥳それまで少し寒かったけど、半袖にならざるを得なかった🔥&#xA;circle&#39;23 2日目 サンセットローラーコースター、美しい音色でチル半端なかった🥹✨写真は公式から拝借w 他もcircleで聴きたい大好きなアーティストばかり🫶 海中開催が戻ってきて本当に嬉しい！フェスっていうかもはやcircleという文化に感謝ですありがとうございます😭✨w</description>
     </item>
   </channel>
