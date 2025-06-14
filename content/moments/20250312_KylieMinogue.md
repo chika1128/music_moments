@@ -12,9 +12,9 @@ tags:
  - 有明アリーナ
  - 音楽イベント/ライブ
 pictures:
- - https://github.com/chika1128/music_moments/blob/main/content/moments/img/20250312_KylieMinogue1.jpg?raw=true
- - https://github.com/chika1128/music_moments/blob/main/content/moments/img/20250312_KylieMinogue_IMG_2117.jpg?raw=true
- - https://github.com/chika1128/music_moments/blob/main/content/moments/img/20250312_KylieMinogue_IMG_2153.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/20250318_KylieMinogue1.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/20250318_KylieMinogue_IMG_2117.jpg?raw=true
+ - https://github.com/chika1128/music_moments/blob/main/content/moments/img/20250318_KylieMinogue_IMG_2153.jpg?raw=true
 link:
 link_text:
 link_logo:
