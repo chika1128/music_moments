@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>音楽イベント/クラブイベント on </title>
-    <link>http://localhost:1313/music_moments/tags/%E9%9F%B3%E6%A5%BD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%82%AF%E3%83%A9%E3%83%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
+    <link>https://chika1128.github.io/music_moments/tags/%E9%9F%B3%E6%A5%BD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%82%AF%E3%83%A9%E3%83%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
     <description>Recent content in 音楽イベント/クラブイベント on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 06 Mar 2025 00:43:12 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/music_moments/tags/%E9%9F%B3%E6%A5%BD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%82%AF%E3%83%A9%E3%83%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chika1128.github.io/music_moments/tags/%E9%9F%B3%E6%A5%BD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%82%AF%E3%83%A9%E3%83%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20250305_NinaKraviz</title>
-      <link>http://localhost:1313/music_moments/moments/20250305_ninakraviz/</link>
+      <link>https://chika1128.github.io/music_moments/moments/20250305_ninakraviz/</link>
       <pubDate>Thu, 06 Mar 2025 00:43:12 +0900</pubDate>
-      <guid>http://localhost:1313/music_moments/moments/20250305_ninakraviz/</guid>
+      <guid>https://chika1128.github.io/music_moments/moments/20250305_ninakraviz/</guid>
       <description>なんと福岡にNinaKravizが・・！いい音圧で聴けたし楽しかった！！🥹🥰 爆音でしか得られない栄養がある🥹✨✨</description>
     </item>
   </channel>
