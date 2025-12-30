@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta name="generator" content="Hugo 0.124.1"><script src="/music_moments/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=music_moments/livereload" data-no-instant defer></script>
+        <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<script src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
+
+
+<link href="https://cdn.bootcss.com/font-awesome/5.8.2/css/all.min.css" rel="stylesheet">
+<script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/favicon.ico?raw=true">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/favicon.ico?raw=true">
+<link rel="apple-touch-icon" sizes="57x57" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/apple-touch-icon-57x57.png?raw=true">
+<link rel="apple-touch-icon" sizes="60x60" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/apple-touch-icon-60x60.png?raw=true">
+<link rel="apple-touch-icon" sizes="72x72" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/apple-touch-icon-72x72.png?raw=true">
+<link rel="apple-touch-icon" sizes="76x76" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/apple-touch-icon-76x76.png?raw=true">
+<link rel="apple-touch-icon" sizes="114x114" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/apple-touch-icon-114x114.png?raw=true">
+<link rel="apple-touch-icon" sizes="120x120" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/apple-touch-icon-120x120.png?raw=true">
+<link rel="apple-touch-icon" sizes="144x144" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/apple-touch-icon-144x144.png?raw=true">
+<link rel="apple-touch-icon" sizes="152x152" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/apple-touch-icon-152x152.png?raw=true">
+<link rel="apple-touch-icon" sizes="180x180" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/apple-touch-icon-180x180.png?raw=true">
+<link rel="icon" type="image/png" sizes="36x36" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-36x36.png?raw=true">
+<link rel="icon" type="image/png" sizes="48x48" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-48x48.png?raw=true">
+<link rel="icon" type="image/png" sizes="72x72" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-72x72.png?raw=true">
+<link rel="icon" type="image/png" sizes="96x96" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-96x96.png?raw=true">
+<link rel="icon" type="image/png" sizes="128x128" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-128x128.png?raw=true">
+<link rel="icon" type="image/png" sizes="144x144" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-144x144.png?raw=true">
+<link rel="icon" type="image/png" sizes="152x152" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-152x152.png?raw=true">
+<link rel="icon" type="image/png" sizes="192x192" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-192x192.png?raw=true">
+<link rel="icon" type="image/png" sizes="256x256" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-256x256.png?raw=true">
+<link rel="icon" type="image/png" sizes="384x384" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-384x384.png?raw=true">
+<link rel="icon" type="image/png" sizes="512x512" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/android-chrome-512x512.png?raw=true">
+<link rel="icon" type="image/png" sizes="36x36" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-36x36.png?raw=true">
+<link rel="icon" type="image/png" sizes="48x48" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-48x48.png?raw=true">
+<link rel="icon" type="image/png" sizes="72x72" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-72x72.png?raw=true">
+<link rel="icon" type="image/png" sizes="96x96" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-96x96.png?raw=true">
+<link rel="icon" type="image/png" sizes="128x128" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-128x128.png?raw=true">
+<link rel="icon" type="image/png" sizes="144x144" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-144x144.png?raw=true">
+<link rel="icon" type="image/png" sizes="152x152" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-152x152.png?raw=true">
+<link rel="icon" type="image/png" sizes="160x160" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-160x160.png?raw=true">
+<link rel="icon" type="image/png" sizes="192x192" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-192x192.png?raw=true">
+<link rel="icon" type="image/png" sizes="196x196" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-196x196.png?raw=true">
+<link rel="icon" type="image/png" sizes="256x256" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-256x256.png?raw=true">
+<link rel="icon" type="image/png" sizes="384x384" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-384x384.png?raw=true">
+<link rel="icon" type="image/png" sizes="512x512" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-512x512.png?raw=true">
+<link rel="icon" type="image/png" sizes="16x16" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-16x16.png?raw=true">
+<link rel="icon" type="image/png" sizes="24x24" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-24x24.png?raw=true">
+<link rel="icon" type="image/png" sizes="32x32" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-32x32.png?raw=true">
+<link rel="manifest" href="https://github.com/chika1128/music_moments/blob/main/docs/favicon/manifest.json?raw=true">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://github.com/chika1128/music_moments/blob/main/docs/favicon/icon-144x144.png?raw=true">
+<meta name="theme-color" content="#ffffff">
+
+
+
+<link rel="stylesheet" href="http://localhost:1313/music_moments/style-refractored.min.93ddceeaf1fe034a7d854ce161f6e69051a84f8427e9b45e56229052adfd9bdb.css">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"/>
+
+
+<link href="https://vjs.zencdn.net/8.0.4/video-js.min.css" rel="stylesheet" />
+
+
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/base-min.css">
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-min.css">
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css">
+
+
+
+
+
+
+
+
+
+
+
+
+<title>music♪</title>
+
+    </head>
+    <body>
+        <div class="page">
+            <div class="jumbotron" style="background-image: url(https://pbs.twimg.com/media/EgrqGBHU0AE2C0P?format=jpg);">
+    <div class="container">
+        <div class="site-title">music♪</div>
+        <p class="signature">記録（not時系列）</p>
+    </div>
+</div>
+
+            
+    <div class="container">
+        
+        
+            <div class="moment-row">
+
+    <div class="pure-g">
+
+        
+        <div class="pure-u-1 pure-u-sm-1-3">
+            <div class="time">
+                <div class="month-day">Oct 24th</div>
+                <div class="year">2021</div>
+            </div>
+        </div>
+
+        
+        <div class="pure-u-1 pure-u-sm-2-3">
+            <div class="moment-content">
+                
+                
+
+                
+                <div class="user-info">
+                    <div class="avatar-block">
+                        
+                        
+                        <img src='http://localhost:1313/music_moments///img/hana2.png' class="avatar">
+                        
+                    </div>
+                    <div class="intro">
+                        
+                        <div class="name">@ct_902</div>
+                        
+                        <div>
+                            
+                            
+                                
+                                    
+                                    
+                                    
+                                
+                                    
+                                    
+                                    
+                                
+                                    
+                                    
+                                    
+                                
+                            
+                            
+                                <span class="tag text-muted">阿蘇ロック</span><span class="tag text-muted">THE BAWDIES</span><span class="tag text-muted">羊文学</span>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div style="padding-left: 5px; padding-right: 5px;">
+                    
+                    <div class="context">
+                        <!-- 以下にテキストを書き始めます -->
+<p>阿蘇ロック、ちょうど1週間ほど前に阿蘇山が噴火して、しかも会場からも見える！<br>
+ってことで噴火をバックにロック見てきました！！😎🤟🏽🤟</p>
+<p>ボウディーズ楽しかったー！！！🎸☆♬<br>
+羊文学も晴れ空に透き通る声最高でした✨✨</p>
+<p>泉谷しげるさんがそろそろ引退だそうで😢<br>
+いままで阿蘇ロック主催してくれてありがとうございました🙏</p>
+
+                    </div>
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                                
+                            
+                        
+                            
+                                
+                            
+                        
+                            
+                                
+                            
+                        
+                            
+                                
+                            
+                        
+                            
+                                
+                            
+                        
+                            
+                                
+                            
+                        
+                    
+
+                    
+                    
+
+                    
+
+                    
+                        
+
+
+
+
+<div class="pic-grid" style="width: 100%">
+    <div class="pure-g">
+        
+        <div class="pure-u-1-3">
+            <div class="add-padding">
+                <div class="img-container">
+                    <a data-src="https://pbs.twimg.com/media/FCbcba8UYAI-IaP?format=jpg&amp;name=large" data-fancybox="gallery">
+                        <img src="https://pbs.twimg.com/media/FCbcba8UYAI-IaP?format=jpg&amp;name=large" alt="pictures"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="pure-u-1-3">
+            <div class="add-padding">
+                <div class="img-container">
+                    <a data-src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7616.jpg?raw=true" data-fancybox="gallery">
+                        <img src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7616.jpg?raw=true" alt="pictures"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="pure-u-1-3">
+            <div class="add-padding">
+                <div class="img-container">
+                    <a data-src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7593.JPG?raw=true" data-fancybox="gallery">
+                        <img src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7593.JPG?raw=true" alt="pictures"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="pure-u-1-3">
+            <div class="add-padding">
+                <div class="img-container">
+                    <a data-src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7598.jpg?raw=true" data-fancybox="gallery">
+                        <img src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7598.jpg?raw=true" alt="pictures"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="pure-u-1-3">
+            <div class="add-padding">
+                <div class="img-container">
+                    <a data-src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7605.jpg?raw=true" data-fancybox="gallery">
+                        <img src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7605.jpg?raw=true" alt="pictures"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="pure-u-1-3">
+            <div class="add-padding">
+                <div class="img-container">
+                    <a data-src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7618.jpg?raw=true" data-fancybox="gallery">
+                        <img src="https://github.com/chika1128/music_moments/blob/main/content/moments/img/20211024_aso_rock_IMG_7618.jpg?raw=true" alt="pictures"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+                    
+
+                    
+                    
+
+                    
+                    
+                    
+
+                    
+
+
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+                    <div class="moment-note">
+                        <p class="note">23:51 </p>
+                        <div class="like-btn"><i class="far fa-heart"></i></div>
+                    </div>
+
+                </div>
+
+                <hr class="seperating_line">
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+        
+            <div class="moment-row">
+
+    <div class="pure-g">
+
+        
+        <div class="pure-u-1 pure-u-sm-1-3">
+            <div class="time">
+                <div class="month-day">Oct 23rd</div>
+                <div class="year">2021</div>
+            </div>
+        </div>
+
+        
+        <div class="pure-u-1 pure-u-sm-2-3">
+            <div class="moment-content">
+                
+                
+
+                
+                <div class="user-info">
+                    <div class="avatar-block">
+                        
+                        
+                        <img src='http://localhost:1313/music_moments///img/hana2.png' class="avatar">
+                        
+                    </div>
+                    <div class="intro">
+                        
+                        <div class="name">@ct_902</div>
+                        
+                        <div>
+                            
+                            
+                                
+                                    
+                                    
+                                    
+                                
+                                    
+                                    
+                                    
+                                
+                                    
+                                    
+                                    
+                                
+                                    
+                                    
+                                    
+                                
+                            
+                            
+                                <span class="tag text-muted">TheCreators</span><span class="tag text-muted">yonyon</span><span class="tag text-muted">STUTS</span><span class="tag text-muted">ampm</span>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div style="padding-left: 5px; padding-right: 5px;">
+                    
+                    <div class="context">
+                        <!-- 以下にテキストを書き始めます -->
+<p>福岡シティ最&amp;高のThe Creators今年も良かった…👏🏻👏🏼👏🏽👏🏼👏🏻✨✨✨✨✨✨</p>
+<p>YonYonのステージ良かったぁ🥺✨最近よく福岡のイベント来てくれるなーて思ってたけど、まさか福岡にいたとはーーー☺</p>
+<p>夜を使い果たして久々に生で聴けた〜🙏🏻良かった🥰STUTSがフリーライブで聴けるのほんとに凄すぎる福岡シティ🥳</p>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/TheCreators2021?src=hash&amp;ref_src=twsrc%5Etfw">#TheCreators2021</a> <a href="https://twitter.com/hashtag/ampm?src=hash&amp;ref_src=twsrc%5Etfw">#ampm</a> <a href="https://t.co/QOfrigyMWA">pic.twitter.com/QOfrigyMWA</a></p>&mdash; そーめん🪩 (@ct_902) <a href="https://twitter.com/ct_902/status/1451935040229679107?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">YonYonのステージ良かったぁ🥺✨最近よく福岡のイベント来てくれるなーて思ってたけど、まさか福岡にいたとはーーー☺️<a href="https://twitter.com/hashtag/TheCreators2021?src=hash&amp;ref_src=twsrc%5Etfw">#TheCreators2021</a> <a href="https://twitter.com/hashtag/YonYon?src=hash&amp;ref_src=twsrc%5Etfw">#YonYon</a> <a href="https://t.co/fjWcLxmlIp">pic.twitter.com/fjWcLxmlIp</a></p>&mdash; そーめん🪩 (@ct_902) <a href="https://twitter.com/ct_902/status/1451935776791429122?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">STUTSとButajiさん。ええ声…！！<a href="https://twitter.com/hashtag/STUTS?src=hash&amp;ref_src=twsrc%5Etfw">#STUTS</a> <a href="https://twitter.com/hashtag/butaji?src=hash&amp;ref_src=twsrc%5Etfw">#butaji</a> <a href="https://twitter.com/hashtag/TheCreators2021?src=hash&amp;ref_src=twsrc%5Etfw">#TheCreators2021</a> <a href="https://t.co/oszziZ9hd8">pic.twitter.com/oszziZ9hd8</a></p>&mdash; そーめん🪩 (@ct_902) <a href="https://twitter.com/ct_902/status/1451936283333312515?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">夜を使い果たして久々に生で聴けた〜🙏🏻良かった🥰STUTSがフリーライブで聴けるのほんとに凄すぎる福岡シティ🥳 <a href="https://twitter.com/hashtag/STUTS?src=hash&amp;ref_src=twsrc%5Etfw">#STUTS</a> <a href="https://twitter.com/hashtag/TheCreators2021?src=hash&amp;ref_src=twsrc%5Etfw">#TheCreators2021</a> <a href="https://t.co/SO2M62Ds8M">pic.twitter.com/SO2M62Ds8M</a></p>&mdash; そーめん🪩 (@ct_902) <a href="https://twitter.com/ct_902/status/1451936854626889735?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote>
+                    </div>
+
+                    
+                    
+                    
+                    
+                    
+
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+                    
+
+                    
+
+
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+                    <div class="moment-note">
+                        <p class="note">22:10 </p>
+                        <div class="like-btn"><i class="far fa-heart"></i></div>
+                    </div>
+
+                </div>
+
+                <hr class="seperating_line">
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+        
+            <div class="moment-row">
+
+    <div class="pure-g">
+
+        
+        <div class="pure-u-1 pure-u-sm-1-3">
+            <div class="time">
+                <div class="month-day">Sep 1st</div>
+                <div class="year">2021</div>
+            </div>
+        </div>
+
+        
+        <div class="pure-u-1 pure-u-sm-2-3">
+            <div class="moment-content">
+                
+                
+
+                
+                <div class="user-info">
+                    <div class="avatar-block">
+                        
+                        
+                        <img src='http://localhost:1313/music_moments///img/hana2.png' class="avatar">
+                        
+                    </div>
+                    <div class="intro">
+                        
+                        <div class="name">@ct_902</div>
+                        
+                        <div>
+                            
+                            
+                                
+                                    
+                                
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div style="padding-left: 5px; padding-right: 5px;">
+                    
+                    <div class="context">
+                        <!-- 以下にテキストを書き始めます -->
+<p>これより以前はX(旧Twitter)のモーメントにまとめてましたが消えてしまいました🥲笑</p>
+
+                    </div>
+
+                    
+                    
+                    
+                    
+                    
+                        
+                            
+                        
+                    
+
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+                    
+
+                    
+
+
+                    
+                    
+                    
+                    
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="share-link-block">
+    <table class="link-table">
+    <tr>
+        <td>
+            
+            
+            <img src="http://localhost:1313/music_moments//link-logos/default_link_logo.png" class="link-logo">
+            
+        </td>
+        <td style="padding-left: 20px">
+            <a href="https://twitter.com/i/events/1014300762376044544?s=21" target="_blank" rel="noopener noreferrer">2021年09月以前のモーメント</a>
+        </td>
+    </tr>
+    </table>
+</div>
+
+
+
+
+
+
+                    
+
+                    
+                    <div class="moment-note">
+                        <p class="note">00:00 </p>
+                        <div class="like-btn"><i class="far fa-heart"></i></div>
+                    </div>
+
+                </div>
+
+                <hr class="seperating_line">
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+        
+            <div class="moment-row">
+
+    <div class="pure-g">
+
+        
+        <div class="pure-u-1 pure-u-sm-1-3">
+            <div class="time">
+                <div class="month-day">Jan 1st</div>
+                <div class="year">0001</div>
+            </div>
+        </div>
+
+        
+        <div class="pure-u-1 pure-u-sm-2-3">
+            <div class="moment-content">
+                
+                
+
+                
+                <div class="user-info">
+                    <div class="avatar-block">
+                        
+                        
+                        <img src='http://localhost:1313/music_moments///img/hana2.png' class="avatar">
+                        
+                    </div>
+                    <div class="intro">
+                        
+                        <div class="name">@ct_902</div>
+                        
+                        <div>
+                            
+                            
+                                
+                                    
+                                    
+                                    
+                                
+                                    
+                                    
+                                    
+                                
+                                    
+                                    
+                                    
+                                
+                                    
+                                    
+                                    
+                                
+                                    
+                                    
+                                    
+                                
+                            
+                            
+                                <span class="tag text-muted">フジロック</span><span class="tag text-muted">HYUKOH</span><span class="tag text-muted">SunsetRollercoaster</span><span class="tag text-muted">落日飛車</span><span class="tag text-muted">音楽イベント/フェス/フジロック</span>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div style="padding-left: 5px; padding-right: 5px;">
+                    
+                    <div class="context">
+                        <p>夕焼けになる前だけど日が陰ってきている夕方のまだ暑い時間。<br>
+まったりした（暑かったけど）時間帯に聴きながら</p>
+<p>Young Manの力強さと明るい曲調が大好き</p>
+<p>SUNSET ROLLERCOASTERは以CIRCLEで1度見て好きになってたんでした<br>
+フジロックでHYUKOH＆SUNSET ROLLERCOASTERで見れてよかった🥹🥹</p>
+<p>HYUKOHの方は初見だったけどすごくかっこいいのでこれを機に聞いてみよう</p>
+<p>これを書いてる今はもう12月だけど、現地で見た夕暮れの暑い会場が忘れられない<br>
+映像が出れば欲しいくらい。。🥹💞</p>
+<iframe style="width:100%; aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/e-qHcuPXdiA?si=PGHPaxJOTPm_wQLu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio: 1 / 1;" src="https://www.youtube.com/embed/Z8P4lB9ZRag" title="Young Man - Hyukoh &amp; Sunset Rollercoaster at Fuji Rock Festival 2025.07.25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                    </div>
+
+                    
+                    
+                    
+                    
+                    
+
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+                    
+
+                    
+
+
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+                    <div class="moment-note">
+                        <p class="note">00:00 </p>
+                        <div class="like-btn"><i class="far fa-heart"></i></div>
+                    </div>
+
+                </div>
+
+                <hr class="seperating_line">
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+        
+    </div>
+    
+
+        
+            
+            <div class="center">
+
+                
+
+                <div class="pagination">
+                    
+    
+    
+        <a class="page-link" href="http://localhost:1313/music_moments//4">
+            <div class="page-item">&lt; Prev</div>
+        </a>
+    
+
+    
+    
+        
+        <a class="page-link" href="http://localhost:1313/music_moments//1"><div class="page-item">1</div></a>
+        
+    
+        
+        <a class="page-link" href="http://localhost:1313/music_moments//2"><div class="page-item">2</div></a>
+        
+    
+        
+        <a class="page-link" href="http://localhost:1313/music_moments//3"><div class="page-item">3</div></a>
+        
+    
+        
+        <a class="page-link" href="http://localhost:1313/music_moments//4"><div class="page-item">4</div></a>
+        
+    
+        
+        <div class="page-item active">5</div>
+        
+    
+
+    
+        <div class="page-item disabled">Next ></div>
+    
+
+                </div>
+
+                
+
+            </div>
+
+            <div class="footer">
+Powered by <a href="https://www.hugo.io">Hugo</a> | Theme <a href="https://github.com/FarseaSH/hugo-theme-moments">Moments</a>
+</div>
+        </div>
+
+        
+<script>
+    $(".fa-heart").click(function(){
+        if ($(this).attr("red") == 'true'){
+            $(this).animate({color:"#808080"});
+            $(this).attr("red", false);
+        } else {
+            $(this).animate({color:"#ff0000"});
+            $(this).attr("red", true);
+        }
+    });
+</script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+
+
+<script src="https://vjs.zencdn.net/8.0.4/video.min.js"></script>
+
+
+
+
+
+
+<button id="back-top-button"><i class="fas fa-chevron-up"></i></button>
+<script>
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+        if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
+            $("#back-top-button").fadeIn();
+        } else {
+            $("#back-top-button").fadeOut();
+        }
+    }
+
+
+    $( "#back-top-button" ).click(function() {
+        $("html, body").animate({scrollTop: 0}, 500);
+    });
+</script>
+
+
+
+
+
+
+
+
+    </body>
+
+</html>

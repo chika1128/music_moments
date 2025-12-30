@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>砂原良徳 on </title>
-    <link>https://chika1128.github.io/music_moments/tags/%E7%A0%82%E5%8E%9F%E8%89%AF%E5%BE%B3/</link>
+    <link>http://localhost:1313/music_moments/tags/%E7%A0%82%E5%8E%9F%E8%89%AF%E5%BE%B3/</link>
     <description>Recent content in 砂原良徳 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 10 Feb 2025 23:59:00 +0900</lastBuildDate>
-    <atom:link href="https://chika1128.github.io/music_moments/tags/%E7%A0%82%E5%8E%9F%E8%89%AF%E5%BE%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music_moments/tags/%E7%A0%82%E5%8E%9F%E8%89%AF%E5%BE%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://chika1128.github.io/music_moments/moments/20250211_jwave/</link>
+      <link>http://localhost:1313/music_moments/moments/20250211_jwave/</link>
       <pubDate>Mon, 10 Feb 2025 23:59:00 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20250211_jwave/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20250211_jwave/</guid>
       <description>楽しかったーー！ テイトーワもセソニョンも大沢さんもかなりお久しぶりに見れました🥹</description>
     </item>
   </channel>

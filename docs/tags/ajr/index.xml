@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AJR on </title>
-    <link>https://chika1128.github.io/music_moments/tags/ajr/</link>
+    <link>http://localhost:1313/music_moments/tags/ajr/</link>
     <description>Recent content in AJR on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 20 Aug 2024 18:26:00 +0900</lastBuildDate>
-    <atom:link href="https://chika1128.github.io/music_moments/tags/ajr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music_moments/tags/ajr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://chika1128.github.io/music_moments/moments/20240820_summersonic/</link>
+      <link>http://localhost:1313/music_moments/moments/20240820_summersonic/</link>
       <pubDate>Tue, 20 Aug 2024 18:26:00 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20240820_summersonic/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20240820_summersonic/</guid>
       <description> ソニマニまとめ✨✨#sonicmania #sonicmania2024#サカナクション#underworld&#xA;サカナクション、久しぶりに見たらめっちゃ楽しかった！！😂㊗️復活✨✨&#xA;アンダーワールドは途中までしか聴けなかったけどやっぱカッコイイ…！カールがダンスするのカッコイイ🥹 pic.twitter.com/jLnnpizTPt&#xA;&amp;mdash; そーめん🪩 (@ct_902) August 20, 2024 #sonicmania #sonicmania2024 #ソニマニ&#xA;niaarchivesからのTESTSETでソニマニは〆でした#Niaarchives&#xA;めちゃくちゃパワフルでたまにポップみあって楽しかったー😆😆😆 pic.twitter.com/o6aGEvuEs2&#xA;&amp;mdash; そーめん🪩 (@ct_902) August 20, 2024 </description>
     </item>
     <item>
       <title></title>
-      <link>https://chika1128.github.io/music_moments/moments/20240818_ajr/</link>
+      <link>http://localhost:1313/music_moments/moments/20240818_ajr/</link>
       <pubDate>Sun, 18 Aug 2024 18:26:00 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20240818_ajr/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20240818_ajr/</guid>
       <description>AJR良すぎた🥹🥹🥹楽しかったーーー✨✨✨これでメンバー1人来れてないとかビックリ。&#xA;次は全員揃ってる状態で見たい🥹✨</description>
     </item>
   </channel>

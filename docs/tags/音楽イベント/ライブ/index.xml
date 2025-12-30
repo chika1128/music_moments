@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>音楽イベント/ライブ on </title>
-    <link>https://chika1128.github.io/music_moments/tags/%E9%9F%B3%E6%A5%BD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%A9%E3%82%A4%E3%83%96/</link>
+    <link>http://localhost:1313/music_moments/tags/%E9%9F%B3%E6%A5%BD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%A9%E3%82%A4%E3%83%96/</link>
     <description>Recent content in 音楽イベント/ライブ on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 18 Mar 2025 22:57:05 +0900</lastBuildDate>
-    <atom:link href="https://chika1128.github.io/music_moments/tags/%E9%9F%B3%E6%A5%BD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%A9%E3%82%A4%E3%83%96/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music_moments/tags/%E9%9F%B3%E6%A5%BD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%A9%E3%82%A4%E3%83%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20250318_tahiti80</title>
-      <link>https://chika1128.github.io/music_moments/moments/20250318_tahiti80/</link>
+      <link>http://localhost:1313/music_moments/moments/20250318_tahiti80/</link>
       <pubDate>Tue, 18 Mar 2025 22:57:05 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20250318_tahiti80/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20250318_tahiti80/</guid>
       <description> Tahiti80幸せだった～&#xA;福岡きてくれてありがとう🥹💞またいつかきて欲しい🫶&#xA;March 18, 2025 </description>
     </item>
     <item>
       <title>20250313_KylieMinogue</title>
-      <link>https://chika1128.github.io/music_moments/moments/20250312_kylieminogue/</link>
+      <link>http://localhost:1313/music_moments/moments/20250312_kylieminogue/</link>
       <pubDate>Wed, 12 Mar 2025 23:11:50 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20250312_kylieminogue/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20250312_kylieminogue/</guid>
       <description> Loveカイリーミノーグ🥰🫶&#xA;今もずっとコンスタントにアルバム出しててほんとに凄い。最新アルバムTensionツアーだったけど、前回の来日以来4,5個アルバム出てるとか🤣✨&#xA;再ハマりしたきっかけのtime bombやDiscoの曲もやってくれたし、物心ついた頃のKylieアルバムのヒット曲も🥳最高🫶&#xA;March 13, 2025 </description>
+    </item>
+    <item>
+      <title>20250308_XG</title>
+      <link>http://localhost:1313/music_moments/moments/20250308_xg/</link>
+      <pubDate>Sat, 08 Mar 2025 22:57:05 +0900</pubDate>
+      <guid>http://localhost:1313/music_moments/moments/20250308_xg/</guid>
+      <description>話題のXGのライブに。楽しかったけど後ろの方すぎるのと、 西日本総合展示場というのがもうダメすぎて＆花道サブステージもなくて、もう全く見えなかった😂笑&#xA;最近ライブ会場としても使われるようになったみたいだけど、 企業イベントや大学の研究室の展示会で使われるただの平らな場所でライブはなかなか厳しいｗ 西日本展示場であるライブは、今後は前列のいい席取れた時じゃないともう絶対行かないなーｗ&#xA;単独ライブ2hくらいするほどの曲あったっけ？！と思ったけど、同じ曲を何回もやってくれるんだね💡笑</description>
     </item>
   </channel>
 </rss>

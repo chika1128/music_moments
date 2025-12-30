@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GingerRoot on </title>
-    <link>https://chika1128.github.io/music_moments/tags/gingerroot/</link>
+    <link>http://localhost:1313/music_moments/tags/gingerroot/</link>
     <description>Recent content in GingerRoot on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 10 Jan 2025 22:30:00 +0900</lastBuildDate>
-    <atom:link href="https://chika1128.github.io/music_moments/tags/gingerroot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music_moments/tags/gingerroot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://chika1128.github.io/music_moments/moments/20250110_gingerroot/</link>
+      <link>http://localhost:1313/music_moments/moments/20250110_gingerroot/</link>
       <pubDate>Fri, 10 Jan 2025 22:30:00 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20250110_gingerroot/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20250110_gingerroot/</guid>
       <description>まさかの福岡に来てくれたGingerRoot！&#xA;2023のフジロックで見て楽しかったので♪&#xA;福岡にジンジャールート知ってる＆見たいお客さんいるんだろうか・・？と少し心配してたけど、&#xA;全然お客さんいっぱい入ってた。&#xA;人気なんですね！&#xA;ご本人も言ってたけど、音もだけど映像や世界観も楽しい🤗</description>
     </item>
   </channel>

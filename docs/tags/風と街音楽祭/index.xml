@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>風と街音楽祭 on </title>
-    <link>https://chika1128.github.io/music_moments/tags/%E9%A2%A8%E3%81%A8%E8%A1%97%E9%9F%B3%E6%A5%BD%E7%A5%AD/</link>
+    <link>http://localhost:1313/music_moments/tags/%E9%A2%A8%E3%81%A8%E8%A1%97%E9%9F%B3%E6%A5%BD%E7%A5%AD/</link>
     <description>Recent content in 風と街音楽祭 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 14 Apr 2024 16:52:00 +0900</lastBuildDate>
-    <atom:link href="https://chika1128.github.io/music_moments/tags/%E9%A2%A8%E3%81%A8%E8%A1%97%E9%9F%B3%E6%A5%BD%E7%A5%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music_moments/tags/%E9%A2%A8%E3%81%A8%E8%A1%97%E9%9F%B3%E6%A5%BD%E7%A5%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://chika1128.github.io/music_moments/moments/20240414_kaze_to_machi_ongakusai/</link>
+      <link>http://localhost:1313/music_moments/moments/20240414_kaze_to_machi_ongakusai/</link>
       <pubDate>Sun, 14 Apr 2024 16:52:00 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20240414_kaze_to_machi_ongakusai/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20240414_kaze_to_machi_ongakusai/</guid>
       <description>福岡のかしいかえん跡地で今年から始まった街フェス🎵&#xA;ほぼDYGLが見たくて行きました。30分っていう短いセットの中新曲3つもやってくれてました&#xA;久しぶのDYGLもっと聴きたかった🥰&#xA;フードも結構あって、コンパクトで手軽に行けるいいフェスでした🎵&#xA;pic.twitter.com/Ge8hcL6Pzc</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>フェニックス on </title>
-    <link>https://chika1128.github.io/music_moments/tags/%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9/</link>
+    <link>http://localhost:1313/music_moments/tags/%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9/</link>
     <description>Recent content in フェニックス on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 17 Aug 2024 00:37:00 +0900</lastBuildDate>
-    <atom:link href="https://chika1128.github.io/music_moments/tags/%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music_moments/tags/%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://chika1128.github.io/music_moments/moments/20240817_phoenix/</link>
+      <link>http://localhost:1313/music_moments/moments/20240817_phoenix/</link>
       <pubDate>Sat, 17 Aug 2024 00:37:00 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20240817_phoenix/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20240817_phoenix/</guid>
       <description>最高ー✨🥹✨🥹何度観ても多幸感あふれるキラキラエレクトロポップバンド🥹✨🥹✨🥹幸せ🥹✨</description>
     </item>
     <item>
       <title></title>
-      <link>https://chika1128.github.io/music_moments/moments/20230315_phoenix/</link>
+      <link>http://localhost:1313/music_moments/moments/20230315_phoenix/</link>
       <pubDate>Wed, 15 Mar 2023 01:16:16 +0900</pubDate>
-      <guid>https://chika1128.github.io/music_moments/moments/20230315_phoenix/</guid>
+      <guid>http://localhost:1313/music_moments/moments/20230315_phoenix/</guid>
       <description>Phoenix最高でした…🥹キラキラでキュンとする曲たち✨✨Alpha Zulu以外の曲も超たくさんやってくれてファンドッカンドッカンだった… 帰りの新幹線で余韻に浸る🥹</description>
     </item>
   </channel>
