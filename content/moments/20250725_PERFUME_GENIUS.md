@@ -1,5 +1,5 @@
 ---
-title: 20250308_XG
+title: 20250725_PERFUME_GENIUS
 aliases:
 created: 2025-12-30
 modified: 2025-12-30 09:34
