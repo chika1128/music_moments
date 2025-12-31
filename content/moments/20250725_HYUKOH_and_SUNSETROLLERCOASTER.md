@@ -1,12 +1,12 @@
 ---
-title: 20250308_XG
+title: 20250725_HYUKOH_and_SUNSETROLLERCOASTER
 aliases:
 created: 2025-12-29
 modified: 2025-12-29 20:05
 top:
 name:
 avatar:
-date: 2025-07-25T18：00:05+09:00
+date: 2025-07-25T18:00:05+09:00
 tags:
   - フジロック
   - HYUKOH
